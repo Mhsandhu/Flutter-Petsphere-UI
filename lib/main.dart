@@ -188,6 +188,7 @@ class PetSphere extends StatelessWidget {
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
+
                   Text('or continue with', textAlign: TextAlign.center),
                 ],
               ),
